@@ -2,8 +2,8 @@
 **Solusi Billing Modern & Berkelas untuk Warnet Masa Kini**
 
 Dibuat dengan dedikasi tinggi oleh **Mr.Rm19**, N3i Billing hadir sebagai perangkat lunak manajemen kasir dan klien yang menggabungkan estetika modern tahun 2026 dengan performa yang tangguh.
+<img src="https://raw.githubusercontent.com/Mister-RdanM19/Billing-Server-MANAGER/refs/heads/main/t.png">
 
----
 
 ### ✨ Fitur Unggulan
 * **Arsitektur Server-Klien:** Kendalikan seluruh PC user langsung dari meja kasir secara real-time.
